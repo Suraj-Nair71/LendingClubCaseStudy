@@ -1,4 +1,5 @@
-# Project Name
+# Lending Club Case Study
+
 > Using the principles of EDA, Python predict the creditworthiness of a loan applicant by analyzing a labelled dataset of bank customers and use the model to decide on loan approvals for new applicants.
 
 
